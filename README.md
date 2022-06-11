@@ -1,7 +1,6 @@
-## WORD CRACK
-Word crack gives you a word(meaningful or not) to crack. So, you'll have to form another word(meaningful) with it. 
+# WORD CRACK
 
-# MANAGING ERRORS
+## MANAGING ERRORS
 $$$ 
 
 ---Make sure to format you words in words.txt file like this in UPPERCASE:
