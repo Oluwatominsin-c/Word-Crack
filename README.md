@@ -1,9 +1,10 @@
 ## WORD CRACK
+Word crack gives you a word(meaningful or not) to crack. So, you'll have to form another word(meaningful) with it. 
 
 # MANAGING ERRORS
 $$$ 
 
----Make sure to format you words in words.txt file like thisin UPPERCASE:
+---Make sure to format you words in words.txt file like this in UPPERCASE:
 <CRACKED> - <UNCRACKED>
 --- NOTICE!!! We have $-ONE-SPACE-$ after <CRACKED> and before <UNCRACKED>
 --------------ELSE PROGRAM WILL RUN INCORRECTLY!!-----------
